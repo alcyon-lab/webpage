@@ -1,5 +1,5 @@
 ---
-layout: post
+layout: pub
 year: 2017
 title: Experimental Study of the Ehrhart Interpolation Polytope
 authors: Vissarion Fisikopoulos, Zafeirakis Zafeirakopoulos

@@ -1,4 +1,20 @@
-<h1><a id="members">Alumni</a></h1>
+<h1><a id="members">MSc Alumni</a></h1>
+
+
+  <table class="pubtable">
+    <tr class="pubentry">
+      <td> Name </td>
+      <td> Position</td>
+      <td>Next position</td>
+    </tr>
+    {% for member in site.members %}
+      {% if member.alumni and member.position="MSc Student" %}
+        {% include alumni.html %}
+       {% endif %}
+    {% endfor %}
+  </table>
+
+  <h1><a id="members">Undergraduate Alumni</a></h1>
 
 
   <table class="pubtable">

@@ -1,5 +1,5 @@
 ---
-layout: post
+layout: topic
 title: Machine Learning for Polynomials
 prerequisites: Familiarity with ML and Python or JuliaLang
 active: True

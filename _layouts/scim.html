@@ -28,9 +28,9 @@ Organizers:
 </p>
 <br>
   <table class="pubtable">
-    {% capture now %}{{'now' | date: '%s' | plus: 0 %}}{% endcapture %}
+    {% capture now %}{{'now' | date: '%s' | plus: 0 }}{% endcapture %}
     {% for talk in site.scim %}
-      {% capture date %}{{talk.when | date: '%s' | plus: 0 %}}{% endcapture %}
+      {% capture date %}{{talk.when | date: '%s' | plus: 0 }}{% endcapture %}
       {% if date > now %}
         {% include scim_talk.html %}
       {% endif %}
@@ -42,9 +42,9 @@ Organizers:
 </p>
 <br>
   <table class="pubtable">
-    {% capture now %}{{'now' | date: '%s' | plus: 0 %}}{% endcapture %}
+    {% capture now %}{{'now' | date: '%s' | plus: 0 }}{% endcapture %}
     {% for talk in site.scim reversed %}
-      {% capture date %}{{talk.when | date: '%s' | plus: 0 %}}{% endcapture %}
+      {% capture date %}{{talk.when | date: '%s' | plus: 0 }}{% endcapture %}
       {% if date < now %}
         {% include scim_talk.html %}
       {% endif %}

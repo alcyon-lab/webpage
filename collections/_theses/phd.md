@@ -1,5 +1,5 @@
 ---
-layout: post
+layout: pub
 year: 2012
 title: "Linear Diophantine Systems: Partition Analysis and Polyhedral Geometry"
 authors: Zafeirakis Zafeirakopoulos

@@ -3,7 +3,7 @@ layout: event
 start: 8 August 2022
 end: 26 August 2022
 dates: 8 August 2022
-title: Symbolic Computation: Algorithms, Learning and Engineering
+title: "Symbolic Computation: Algorithms, Learning and Engineering"
 contact: Zafeirakis Zafeirakopoulos
 organizer: Zafeirakis Zafeirakopoulos
 submission_date:

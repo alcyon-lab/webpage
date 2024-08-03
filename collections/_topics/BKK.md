@@ -1,5 +1,5 @@
 ---
-layout: post
+layout: topic
 title: Sparse ELimination and the BKK bound
 prerequisites: Mathematical maturity, abstract algebra
 active: True

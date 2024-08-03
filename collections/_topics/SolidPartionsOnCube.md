@@ -1,5 +1,5 @@
 ---
-layout: post
+layout: topic
 title: Solid Partitions on a Cube
 prerequisites: JuliaLang, generating functions
 active: Yes

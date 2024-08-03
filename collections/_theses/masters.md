@@ -1,5 +1,5 @@
 ---
-layout: post
+layout: pub
 year: 2008
 title: "Study and Benchmarks for Real Root Isolation methods"
 authors: Zafeirakis Zafeirakopoulos

@@ -1,5 +1,5 @@
 ---
-layout: post
+layout: members
 year: 2019
 title: A Study on the Chamber Complex
 authors: Büşra Sert

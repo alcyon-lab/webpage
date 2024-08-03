@@ -1,5 +1,5 @@
 ---
-layout: post
+layout: topic
 title: A software citation system
 prerequisites: programming in JuliaLang
 active: False

@@ -1,5 +1,5 @@
 ---
-layout: post
+layout: topic
 title: Full Hilbert Series
 prerequisites: Mathematical maturity, abstract algebra
 active: True

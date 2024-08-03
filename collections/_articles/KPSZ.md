@@ -1,5 +1,5 @@
 ---
-layout: post
+layout: pub
 year: 2014
 title: "On the average complexity for the verification of compatible sequences"
 authors: Christos Koukouvinos, Veronika Pillwein, Dimitris E. Simos, Zafeirakis Zafeirakopoulos

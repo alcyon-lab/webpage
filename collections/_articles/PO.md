@@ -1,5 +1,5 @@
 ---
-layout: post
+layout: pub
 year: 2017
 title: "Polyhedral Omega: a New Algorithm for Solving Linear Diophantine Systems"
 authors: Felix Breuer, Zafeirakis Zafeirakopoulos

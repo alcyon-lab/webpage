@@ -1,5 +1,5 @@
 ---
-layout: post
+layout: topic
 title:  Learning Bijections
 prerequisites: Familiarity with ML and Python or JuliaLang
 active: True

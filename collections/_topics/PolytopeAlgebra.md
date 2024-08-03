@@ -1,5 +1,5 @@
 ---
-layout: post
+layout: topic
 title: The polytope algebra
 prerequisites: Mathematical maturity, abstract algebra, geometry
 active: True

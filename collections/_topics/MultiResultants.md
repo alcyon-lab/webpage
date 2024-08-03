@@ -1,5 +1,5 @@
 ---
-layout: post
+layout: topic
 title: Resultant Systems
 prerequisites: Familiarity with algebra and JuliaLang
 active: True

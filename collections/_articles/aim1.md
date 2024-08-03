@@ -1,5 +1,5 @@
 ---
-layout: post
+layout: pub
 year: 2016
 title: "Generating Functions and Triangulations for Lecture Hall Cones"
 authors: Matthias Beck, Benjamin Braun, Matthias K&#246;ppe, Carla D. Savage, Zafeirakis Zafeirakopoulos

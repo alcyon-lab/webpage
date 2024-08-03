@@ -1,5 +1,5 @@
 ---
-layout: post
+layout: pub
 year: 2017
 title: On the space of Minkowski summands of a convex polytope
 authors: Ioannis Z. Emiris, Anna Karasoulou, Eleni Tzanaki, Zafeirakis Zafeirakopoulos

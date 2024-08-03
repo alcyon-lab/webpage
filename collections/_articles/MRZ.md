@@ -1,5 +1,5 @@
 ---
-layout: post
+layout: pub
 year: 2014
 title: "Efficient computation of dual space and directional multiplicity of an isolated point"
 authors: Angelos Mantzaflaris, Hamid Rahkooy, Zafeirakis Zafeirakopoulos

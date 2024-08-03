@@ -1,5 +1,5 @@
 ---
-layout: post
+layout: pub
 year: 2020
 title: PTOPO - a maple package for the topology of parametric curves.
 authors: Christina Katsamaki, Fabrice Rouillier, Elias P. Tsigaridas, Zafeirakis Zafeirakopoulos

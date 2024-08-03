@@ -1,5 +1,5 @@
 ---
-layout: post
+layout: topic
 title: Using fast volume approximation for computing Ehrhart polynomials
 prerequisites: programming in JuliaLang
 active: True

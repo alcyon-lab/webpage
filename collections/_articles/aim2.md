@@ -1,5 +1,5 @@
 ---
-layout: post
+layout: pub
 year: 2014
 title: "s-Lecture hall partitions, self-reciprocal polynomials, and Gorenstein cones"
 authors: Matthias Beck, Benjamin Braun, Matthias K&#246;ppe, Carla D. Savage, Zafeirakis Zafeirakopoulos

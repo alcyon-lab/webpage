@@ -1,6 +1,6 @@
 ---
-layout: post
-title: Resultants and applications
+layout: topic
+title: topic and applications
 prerequisites: Mathematical maturity, abstract algebra
 active: True
 math: True

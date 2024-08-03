@@ -7,4 +7,5 @@ webpage:
 cv: huseyin
 scholar:
 academic_title:
+alumni: yes
 ---
