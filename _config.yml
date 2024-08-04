@@ -19,7 +19,7 @@ email: zafeirakopoulos@gmail.com
 description: >- # this means to ignore newlines until "baseurl:"
   ALCYON lab
   Algorithms, Algebra, Combinatorics, Geometry, Optimization and Number Theory
-baseurl: "/lab" # the subpath of your site, e.g. /blog
+# baseurl: "/lab" # the subpath of your site, e.g. /blog
 # url: "" # the base hostname & protocol for your site, e.g. http://example.com
 #https://alcyon-lab.gitlab.io
 twitter: alcyonlab
