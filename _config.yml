@@ -79,3 +79,5 @@ collections:
     output: true
   scim:
     output: true
+  researchtopics:
+    output: true
