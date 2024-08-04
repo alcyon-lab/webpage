@@ -1,12 +1,12 @@
 ---
 layout: members
-name: Hüseyin Sabri Aliefendioğlu
+name: Baran Solmaz
 position: MSc Student
-alumni: true
+alumni: false
 affiliation: Gebze TU
 webpage:
-cv: huseyin
+cv: 
 scholar:
 academic_title:
-nextposition: Industry
+nextposition: 
 ---

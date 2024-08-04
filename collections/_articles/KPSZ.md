@@ -1,6 +1,6 @@
 ---
 layout: pub
-year: 2014
+year: 2011
 title: "On the average complexity for the verification of compatible sequences"
 authors: Christos Koukouvinos, Veronika Pillwein, Dimitris E. Simos, Zafeirakis Zafeirakopoulos
 venue: Information Processing Letters

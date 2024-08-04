@@ -9,7 +9,8 @@
   <tr><th colspan="3" >Preprints</th></tr>
 </thead>
 
-{% for post in site.preprints reversed %}
+{% assign preprints =  site.preprints | sort: "year"  %}
+{% for post in preprints reversed  %}
 
 {% include pubentry.html %}
 
@@ -24,8 +25,10 @@
   <tr><th colspan="3" >Books</th></tr>
 </thead>
 
-{% for post in site.books reversed %}
 
+{% assign books =  site.books | sort: "year"  %}
+{% for post in books reversed  %}
+ 
 {% include pubentry.html %}
 
 {% endfor %}
@@ -38,8 +41,9 @@
   <tr><th colspan="3" >Conference Papers</th></tr>
 </thead>
 
-{% for post in site.proceedings reversed %}
-
+{% assign proceedings =  site.proceedings| sort: "year"  %}
+{% for post in proceedings reversed  %}
+ 
 {% include pubentry.html %}
 
 {% endfor %}
@@ -51,8 +55,8 @@
 <thead>
   <tr><th colspan="3" >Journal Papers</th></tr>
 </thead>
-
-{% for post in site.articles reversed %}
+{% assign articles = site.articles | sort: "year"  %}
+{% for post in articles reversed  %}
 
 {% include pubentry.html %}
 
@@ -80,8 +84,9 @@
   <tr><th colspan="3" >Theses</th></tr>
 </thead>
 
-{% for post in site.theses reversed %}
-
+{% assign theses =  site.theses| sort: "year"  %}
+{% for post in theses reversed  %}
+ 
 {% include pubentry.html %}
 
 {% endfor %}

@@ -52,23 +52,21 @@ collections:
     output: true
   proceedings:
     output: false
-    sort_by: year
   books:
     output: false
   preprints:
     output: false
-    sort_by: year
   articles:
     output: false
   journal:
     output: false
-    sort_by: year
   theses:
     output: false
   events:
     output: true
   talks:
     output: false
+    sort_by: year
   seminar:
     output: true
   projects:

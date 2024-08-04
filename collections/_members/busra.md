@@ -3,9 +3,9 @@ layout: members
 name: Büşra Sert
 affiliation: MSGSU
 position: MSc Student
-alumni: yes
+alumni: true
 webpage:
-cv: busra_sert
+cv: 
 scholar:
 academic_title:
 thesis: busra_sert_thesis

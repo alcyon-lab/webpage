@@ -1,8 +1,8 @@
 ---
 layout: members
 name: Zafeirakis Zafeirakopoulos
-position: Faculty
-affiliation: Gebze TU
+position: Researcher
+affiliation: University of Geneva
 webpage: https://alcyon-lab.gitlab.io/lab/
 cv: zaf
 scholar: https://scholar.google.com/citations?user=NEeNVssAAAAJ&hl=en

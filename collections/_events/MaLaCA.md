@@ -1,5 +1,6 @@
 ---
 layout: event
+year: 2021
 start:
 end:
 dates: 23-27 July 2021

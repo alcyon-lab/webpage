@@ -1,5 +1,6 @@
 ---
 layout: event
+year: 2020
 start:
 end:
 dates: January 23, 2020

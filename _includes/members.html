@@ -20,6 +20,14 @@
           {% endif %}
           {% endunless %}
       {% endfor %}
+
+      {% for member in site.members %}
+      {% unless member.alumni %}
+          {% if member.position == "Researcher" %}
+            {% include member.html %}
+          {% endif %}
+          {% endunless %}
+      {% endfor %}
       <!-- <thead>
         <tr><th colspan="4" >Graduate Students</th></tr>
       </thead> -->

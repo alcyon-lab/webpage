@@ -7,4 +7,6 @@ webpage:
 cv:
 scholar:
 academic_title: Dr.
+alumni: true
+nextposition: Galatasaray U. (Assist. Prof.)
 ---

@@ -1,7 +1,7 @@
 ---
 layout: members
 name: Mohan Ravichandran
-affiliation: Bogazici University
+affiliation:
 position: Associate Faculty
 webpage: 
 cv:
