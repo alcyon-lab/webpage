@@ -13,9 +13,9 @@
 # you will see them accessed via {{ site.title }}, {{ site.email }}, and so on.
 # You can create any custom variable you would like, and they will be accessible
 # in the templates via {{ site.myvariable }}.
-labimg: images/alcyon.jpg
+labimg: images/alcyon.png
 title: ALCYON lab
-email: zafeirakopoulos@gmail.com
+email: alcyon.lab@gmail.com
 description: >- # this means to ignore newlines until "baseurl:"
   ALCYON lab
   Algorithms, Algebra, Combinatorics, Geometry, Optimization and Number Theory
