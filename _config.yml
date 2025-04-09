@@ -60,8 +60,6 @@ collections:
     output: false
   journal:
     output: false
-  theses:
-    output: false
   events:
     output: true
   talks:
